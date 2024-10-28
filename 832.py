@@ -1,4 +1,6 @@
 class Solution:
+
+    # idea: follow description, implementation problem
     def flipAndInvertImage(self, image: List[List[int]]) -> List[List[int]]:
         res = []
         for row in image:

@@ -1,4 +1,6 @@
 class Solution:
+
+    # idea: implementation problem, just follow description
     def calPoints(self, operations: List[str]) -> int:
         res = []
         for i in operations:
